@@ -6,13 +6,13 @@ Select exactly two points in the glyph editor and a small label beside the line 
 
 ## Install
 
-In Fontra, open **Settings → Plugins**, click **+** and enter:
+In Fontra, open **Settings → Plugins**, click **+** and enter the address of the version you want:
 
 ```
-Gustavo-Tondin/fontra-angle
+https://cdn.jsdelivr.net/gh/Gustavo-Tondin/fontra-angle@1.1.0
 ```
 
-Reload the editor.
+Reload the editor. Each release has its own address, so the browser never keeps a stale copy; to update, remove the old entry and add the new version.
 
 ## License
 
