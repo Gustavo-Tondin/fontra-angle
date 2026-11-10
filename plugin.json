@@ -1,0 +1,6 @@
+{
+  "name": "Angle between two points",
+  "description": "Shows the angle (from vertical and horizontal) and dx/dy between two selected points.",
+  "init": "start.js",
+  "function": "start"
+}
